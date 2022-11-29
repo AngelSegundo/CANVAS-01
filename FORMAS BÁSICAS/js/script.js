@@ -1,0 +1,6 @@
+drawingApp.init('#myCanvas')
+// drawingApp.drawFilledSquare()
+// drawingApp.drawLinearSquare()
+drawingApp.drawSolidLines()
+drawingApp.drawArc()
+drawingApp.write()
